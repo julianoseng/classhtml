@@ -1,0 +1,11 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 40%;
+    border: 20px groove blue;
+    background-image: url("../../egg_shop_fun_practice/images/eggs.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+

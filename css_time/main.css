@@ -1,0 +1,27 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("../egg_shop_fun_practice/images/eggs.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px groove indianred;
+    border-radius: 100%;
+}
+.dogone{
+    border: 10px groove orangered;
+}
+.dogtwo{
+    border: 10px groove black;
+}
+.dogthree{
+    border: 10px groove blueviolet;
+}
+
+
+/*Display*/
+
