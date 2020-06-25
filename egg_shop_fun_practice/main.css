@@ -1,0 +1,39 @@
+    * {
+        font-family: Arial, serif;
+    }
+
+    body {
+        height: 100%;
+        margin: 0 auto;
+        width: 50%;
+        border: 3px solid yellow;
+        color: white;
+        background-color: black;
+        box-sizing: border-box;
+    }
+
+    figcaption{
+        text-align: center;
+    }
+    img {
+        display: block;
+        margin: 0 auto;
+        border: solid yellow;
+    }
+
+
+    h1 {
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        width: 50%;
+    }
+
+    html {
+        background-color: white;
+        height: 100%;
+    }
+
+    a {
+        color: yellow;
+    }
