@@ -1,0 +1,37 @@
+/*1*/
+#third {
+    color: red;
+}
+
+/*2*/
+.red_class {
+    color: red;
+}
+
+/*3*/
+a  {
+    border: solid crimson;
+}
+
+/*4*/
+#four:link {
+    color: green;
+}
+#four:visited {
+    color: blue;
+}
+#four:hover {
+    color: red;
+}
+#four:active {
+    color: yellow;
+}
+
+/*5*/
+p::first-letter {
+    color: red;
+    font-family: cursive;
+    font-size: 50px;
+}
+
+/*6*/

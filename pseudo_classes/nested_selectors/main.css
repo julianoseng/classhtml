@@ -1,0 +1,16 @@
+
+/*
+
+div p
+All p tags beneath
+
+div > p
+All tags immediately beneath a div
+
+div ~ p
+All p tags that are a sibling following a div
+
+div + p
+All tags that are an immediate sibling following a div
+
+*/
