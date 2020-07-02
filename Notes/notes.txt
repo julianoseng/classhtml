@@ -1,0 +1,8 @@
+
+Specicifity Calculator values:
+id = 100
+class = 10
+element = 1
+attribute selectors = 1
+pseudo classes = 10
+pseudo elements = 1
