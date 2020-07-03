@@ -1,0 +1,7 @@
+/*You always need 1 generic font-family*/
+
+/* Serif is the first font. If it is not available, sans-serif is the fall-back.*/
+h1  {
+    font-family: serif, sans-serif;
+    font-size: 30px;
+}

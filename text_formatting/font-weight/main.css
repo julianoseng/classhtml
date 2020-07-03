@@ -1,0 +1,7 @@
+h1  {
+    font-family: sans-serif;
+    font-size: 4rem;
+/*    4rem = 4 * default font size(px). 12px * 4= 64px */
+    font-weight: normal;
+    font-style: italic;
+}
