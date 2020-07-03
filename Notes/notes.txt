@@ -1,8 +1,29 @@
 
-Specicifity Calculator values:
-id = 100
-class = 10
-element = 1
-attribute selectors = 1
-pseudo classes = 10
-pseudo elements = 1
+Specificity Calculator values:
+    id = 100
+    class = 10
+    element = 1
+    attribute selectors = 1
+    pseudo classes = 10
+    pseudo elements = 1
+
+Separation of concerns:
+    HTML - Structure
+    CSS - Format
+    JS - Functionality
+
+CSS rule-sets are made up of:
+    Selectors
+    declaration blocks
+    declarations
+    properties
+    values
+
+Font Shorthand property:
+    Allows you to use multiple font properties easily
+
+Leading:
+    Space between lines
+Kerning:
+    Space between letters
+
