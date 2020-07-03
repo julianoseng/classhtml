@@ -1,14 +1,14 @@
-/*With uppercase text-transform*/
+/*With small-caps variant*/
 #with  {
     font-family: serif;
     font-size: 2rem;
     font-weight: normal;
-    text-transform: uppercase;
+    font-variant: small-caps;
 }
-/*Without uppercase text-transform*/
+/*Without small-caps variant*/
 #without {
     font-family: serif;
     font-size: 2rem;
     font-weight: normal;
-    /*text-transform: uppercase;*/
+    /*font-variant: small-caps;*/
 }

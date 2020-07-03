@@ -22,8 +22,8 @@ CSS rule-sets are made up of:
 Font Shorthand property:
     Allows you to use multiple font properties easily
 
-Leading:
+Leading (lines):
     Space between lines
-Kerning:
+Kerning (characters):
     Space between letters
 

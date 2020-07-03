@@ -1,0 +1,9 @@
+h1  {
+    font-family: serif;
+    font-size: 4rem;
+    font-weight: normal;
+    font-variant: small-caps;
+    line-height: 2;
+
+    border: 1px dashed red;
+}
