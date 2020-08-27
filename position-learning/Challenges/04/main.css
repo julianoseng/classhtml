@@ -1,0 +1,15 @@
+body {
+    position: relative;
+    left: 45%;
+    border: solid black;
+    width: 400px;
+    height: 400px;
+}
+
+aside {
+    position: absolute;
+    right: 400px;
+    border: solid red;
+    width: 150px;
+    height: 400px;
+}
