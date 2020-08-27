@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+div, img {
+    border: 2px solid red;
+    margin: 2px;
+    overflow: auto;
+}
+
+#right {
+    float: right;
+
+}
